@@ -1,4 +1,8 @@
 = microservice - slides
 
+image:http://img.shields.io/travis/ollin/pres-microservices/master.svg["Build Status", link="https://travis-ci.org/ollin/pres-microservices"]
+
+---
+
 link:src/asciidoc/presentation.adoc[presentation about microservices]
 
